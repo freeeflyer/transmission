@@ -1,3 +1,5 @@
+# Migration from Github to Bitbucket
+# Nicolas Zagulajew https://bitbucket.org/freeeflyer/
 FROM alpine
 RUN apk add --no-cache bash
 RUN apk add --no-cache transmission-daemon
